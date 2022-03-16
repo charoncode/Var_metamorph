@@ -1,6 +1,6 @@
 # Var_metamorph
 
-This is a MATLAB implementation of the papers [Weight metamorphosis of varifolds and the LDDMM-Fisher-Rao metric
+This is a Python implementation of the papers [Weight metamorphosis of varifolds and the LDDMM-Fisher-Rao metric
 ](https://arxiv.org/abs/2112.04644), [Diffeomorphic Registration with Density Changes for the Analysis of Imbalanced Shapes](https://link.springer.com/chapter/10.1007/978-3-030-78191-0_3), [Diffeomorphic Registration of Discrete Geometric Distributions](https://www.worldscientific.com/doi/abs/10.1142/9789811200137_0003) and [Metrics, quantization and registration in varifold spaces](https://arxiv.org/abs/1903.11196) by [Hsi-Wei Hsieh](https://sites.google.com/view/hsi-wei-hsieh/) and [Nicolas Charon](http://www.cis.jhu.edu/~charon/). The package provides tools to permorm diffeomorphic registration, interpolation and compression of geometric shapes (such as discrete cruves or triangulated surfaces) that are represented as ***discrete varifolds***.
 
 ## References
